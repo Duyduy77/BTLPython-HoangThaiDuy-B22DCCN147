@@ -1,0 +1,511 @@
+Cluster 0:
+- Adama Traoré
+- Amad Diallo
+- Ansu Fati
+- Armando Broja
+- Arnaut Danjuma
+- Ben Brereton
+- Beto
+- Callum Wilson
+- Carlos Vinícius
+- Carney Chukwuemeka
+- Cauley Woodrow
+- Christopher Nkunku
+- Danny Ings
+- David Brooks
+- David Datro Fofana
+- Divock Origi
+- Eddie Nketiah
+- Emile Smith Rowe
+- Enes Ünal
+- Evan Ferguson
+- Fabio Vieira
+- Facundo Pellistri
+- Giovani Lo Celso
+- Hannibal Mejbri
+- Harvey Barnes
+- Ivan Perišić
+- Jacob Brown
+- Jay Rodriguez
+- Jhon Durán
+- Julio Enciso
+- Kevin Schade
+- Kieffer Moore
+- Leander Dendoncker
+- Luca Koleosho
+- Luis Sinisterra
+- Luke Berry
+- Manor Solomon
+- Matheus França
+- Matt Ritchie
+- Maxwel Cornet
+- Morgan Rogers
+- Neal Maupay
+- Nicolò Zaniolo
+- Oscar Bobb
+- Sasa Kalajdzic
+- Shandon Baptiste
+- Solly March
+- Taiwo Awoniyi
+- Timo Werner
+- Youssef Chermiti
+
+Cluster 1:
+- Abdoulaye Doucouré
+- Alex Iwobi
+- Anthony Elanga
+- Antoine Semenyo
+- Antony
+- Bobby Reid
+- Callum Hudson-Odoi
+- Cameron Archer
+- Chiedozie Ogbene
+- Chris Wood
+- Cody Gakpo
+- Danny Welbeck
+- Diogo Jota
+- Dominic Calvert-Lewin
+- Elijah Adebayo
+- Gabriel Jesus
+- Harry Wilson
+- Harvey Elliott
+- Hwang Hee-chan
+- Ivan Toney
+- Jack Grealish
+- Jack Harrison
+- Jacob Murphy
+- Jacob Bruun Larsen
+- James Mcatee
+- Jean-Philippe Mateta
+- Jordan Ayew
+- Justin Kluivert
+- Kaoru Mitoma
+- Keane Lewis-Potter
+- Leandro Trossard
+- Lyle Foster
+- Marcus Rashford
+- Marcus Tavernier
+- Michael Olise
+- Michail Antonio
+- Miguel Almirón
+- Moussa Diaby
+- Mykhailo Mudryk
+- Neal Maupay
+- Noni Madueke
+- Odsonne Édouard
+- Oliver McBurnie
+- Pedro Neto
+- Rasmus Højlund
+- Raúl Jiménez
+- Richarlison
+- Rodrigo Muniz
+- Simon Adingra
+- Tahith Chong
+- Willian
+- Wilson Odobert
+- Yoane Wissa
+- Zeki Amdouni
+
+Cluster 2:
+- Aaron Ramsdale
+- Alisson
+- Alphonse Areola
+- André Onana
+- Arijanet Muric
+- Bart Verbruggen
+- Bernd Leno
+- Caoimhín Kelleher
+- Daniel Bentley
+- David Raya
+- Dean Henderson
+- Ederson
+- Emiliano Martínez
+- Guglielmo Vicario
+- Ionuț Radu
+- Ivo Grbić
+- James Trafford
+- Jason Steele
+- Jordan Pickford
+- José Sá
+- Mark Flekken
+- Mark Travers
+- Martin Dúbravka
+- Matt Turner
+- Matz Sels
+- Neto
+- Nick Pope
+- Odisseas Vlachodimos
+- Robert Sánchez
+- Robin Olsen
+- Sam Johnstone
+- Stefan Ortega
+- Thomas Kaminski
+- Thomas Strakosha
+- Wes Foderingham
+- Đorđe Petrović
+- Łukasz Fabiański
+
+Cluster 3:
+- Aaron Wan-Bissaka
+- Adam Smith
+- Adam Webster
+- Adam Wharton
+- Albert Sambi Lokonga
+- Alex Scott
+- Amari'i Bell
+- Ameen Al-Dakhil
+- Andros Townsend
+- Auston Trusty
+- Ben Mee
+- Ben Davies
+- Ben Osborn
+- Ben Godfrey
+- Benoît Badiashile
+- Boubacar Kamara
+- Carlos Baleba
+- Cheick Doucouré
+- Chris Richards
+- Christian Eriksen
+- Clément Lenglet
+- Conor Bradley
+- Curtis Jones
+- Dango Ouattara
+- Daniel Muñoz
+- Danilo
+- Diego Carlos
+- Elliot Anderson
+- Emerson
+- Facundo Buonanotte
+- Frank Onyeka
+- Gabriel Osho
+- Harrison Reed
+- Harry Maguire
+- Harry Toffolo
+- Ibrahim Sangaré
+- Idrissa Gana Gueye
+- Igor
+- Issa Diop
+- Issa Kaboré
+- Jakub Kiwior
+- Jamaal Lascelles
+- James Milner
+- Jarell Quansah
+- Jeffrey Schlupp
+- Joel Ward
+- Joelinton
+- John Stones
+- Jonny Evans
+- Jordan Clark
+- Jordan Beyer
+- Jorginho
+- Joël Veltman
+- Jóhann Berg Guðmundsson
+- Kenny Tete
+- Kobbie Mainoo
+- Konstantinos Mavropanos
+- Kristoffer Ajer
+- Levi Colwill
+- Lewis Hall
+- Lewis Miley
+- Lloyd Kelly
+- Lorenz Assignon
+- Luke Shaw
+- Mads Roerslev
+- Marc Guéhi
+- Marvelous Nakamba
+- Mateo Kovačić
+- Mathias Jørgensen
+- Matt Doherty
+- Max Aarons
+- Maxime Estève
+- Mikkel Damsgaard
+- Milos Kerkez
+- Moussa Niakhate
+- Nathan Patterson
+- Nathaniel Clyne
+- Neco Williams
+- Nicolás Domínguez
+- Ola Aina
+- Oliver Norwood
+- Orel Mangala
+- Pervis Estupiñán
+- Philip Billing
+- Pierre Højbjerg
+- Raphaël Varane
+- Reece Burke
+- Rodrigo Bentancur
+- Ryan Yates
+- Ryan Gravenberch
+- Saša Lukić
+- Scott McTominay
+- Sergio Reguilón
+- Sofyan Amrabat
+- Sven Botman
+- Takehiro Tomiyasu
+- Teden Mengi
+- Thomas Partey
+- Tim Ream
+- Tom Cairney
+- Tom Lockyer
+- Tommy Doyle
+- Tosin Adarabioyo
+- Trevoh Chalobah
+- Valentino Livramento
+- Victor Lindelöf
+- Will Hughes
+- Willy Boly
+- Youri Tielemans
+- Álex Moreno
+
+Cluster 4:
+- Alfie Doughty
+- Andreas Pereira
+- Andrew Robertson
+- Bernardo Silva
+- Bruno Fernandes
+- Bruno Guimarães
+- Conor Gallagher
+- Declan Rice
+- Dominik Szoboszlai
+- Douglas Luiz
+- Dwight McNeil
+- Gustavo Hamer
+- James Ward-Prowse
+- James Maddison
+- John McGinn
+- Kevin De Bruyne
+- Kieran Trippier
+- Lucas Paquetá
+- Martin Ødegaard
+- Mathias Jensen
+- Morgan Gibbs-White
+- Pablo Sarabia
+- Pascal Groß
+- Pedro Porro
+- Rodri
+- Ross Barkley
+- Trent Alexander-Arnold
+
+Cluster 5:
+- Aaron Cresswell
+- Aaron Hickey
+- Aaron Ramsey
+- Adam Lallana
+- Alex Iwobi
+- Alfie Gilchrist
+- Anass Zaroury
+- Andre Brooks
+- Andrew Omobamidele
+- André Gomes
+- Angelo Ogbonna
+- Anis Ben Slimane
+- Anthony Martial
+- Ben Chilwell
+- Ben Johnson
+- Benson Manuel
+- Boubacar Traoré
+- Brennan Johnson
+- Bryan Gil
+- Bénie Traoré
+- Calum Chambers
+- Cheikhou Kouyaté
+- Chris Basham
+- Chris Mepham
+- Connor Roberts
+- Daiki Hashioka
+- David Ozoh
+- Emil Krafth
+- Eric Dier
+- Felipe
+- Fred Onyedinma
+- Fábio Silva
+- George Baldock
+- Gio Reyna
+- Gonzalo Montiel
+- Hannes Delcroix
+- Hjalmar Ekdal
+- Hugo Bueno
+- Ian Maatsen
+- Jack Hinshelwood
+- Jacob Ramsey
+- Jaidon Anthony
+- Jakub Moder
+- Jaïro Riedewald
+- Jean-Ricner Bellegarde
+- Jesurun Rak Sakyi
+- Joe Rothwell
+- Joe Worrall
+- Joe Willock
+- John Fleck
+- John Egan
+- Joël Matip
+- Kalvin Phillips
+- Kalvin Phillips
+- Kostas Tsimikas
+- Leon Chiwome
+- Lesley Ugochukwu
+- Lewis Dobbin
+- Lisandro Martínez
+- Luke Thomas
+- Mads Juel Andersen
+- Mahmoud Dahoud
+- Mason Holgate
+- Mason Mount
+- Matheus Nunes
+- Matheus Nunes
+- Max Lowe
+- Michael Keane
+- Mike Trésor
+- Naouirou Ahamada
+- Nathan Redmond
+- Nathan Fraser
+- Nuno Tavares
+- Odeluga Offiah
+- Oliver Skipp
+- Oliver Arblaster
+- Pablo Fornals
+- Pelly Ruddock Mpanzu
+- Radu Drăgușin
+- Reece James
+- Reiss Nelson
+- Rhian Brewster
+- Rhys Norrington-Davies
+- Rico Henry
+- Rico Lewis
+- Ryan John Giles
+- Saman Ghoddos
+- Sandro Tonali
+- Santiago Bueno
+- Saïd Benrahma
+- Scott McKenna
+- Serge Aurier
+- Sergio Reguilón
+- Séamus Coleman
+- Tariq Lamptey
+- Tawanda Chirewa
+- Tim Iroegbunam
+- Tom Davies
+- Tyler Adams
+- Valentín Barco
+- William Osula
+- Willy Kambwala
+- Yasser Larouci
+- Yehor Yarmoliuk
+
+Cluster 6:
+- Alejandro Garnacho
+- Alexander Isak
+- Anthony Gordon
+- Brennan Johnson
+- Bryan Mbeumo
+- Bukayo Saka
+- Carlton Morris
+- Cole Palmer
+- Darwin Núñez
+- Dejan Kulusevski
+- Dominic Solanke
+- Eberechi Eze
+- Erling Haaland
+- Gabriel Martinelli
+- Jarrod Bowen
+- Jeremy Doku
+- João Pedro
+- Julián Álvarez
+- Kai Havertz
+- Leon Bailey
+- Luis Díaz
+- Matheus Cunha
+- Mohamed Salah
+- Mohammed Kudus
+- Nicolas Jackson
+- Ollie Watkins
+- Phil Foden
+- Raheem Sterling
+- Son Heung-min
+
+Cluster 7:
+- Alexis Mac Allister
+- Amadou Onana
+- Anel Ahmedhodžić
+- Antonee Robinson
+- Ashley Young
+- Ben White
+- Casemiro
+- Charlie Taylor
+- Christian Nørgaard
+- Destiny Udogie
+- Diogo Dalot
+- Edson Álvarez
+- Emerson Palmieri
+- Enzo Fernández
+- James Garner
+- Jayden Bogle
+- Jefferson Lerma
+- Joe Gomez
+- Josh Brownhill
+- Josh Cullen
+- João Palhinha
+- João Gomes
+- Joško Gvardiol
+- Kyle Walker
+- Lewis Cook
+- Lucas Digne
+- Malo Gusto
+- Marc Cucurella
+- Marcos Senesi
+- Mario Lemina
+- Matty Cash
+- Moisés Caicedo
+- Nélson Semedo
+- Oleksandr Zinchenko
+- Pape Matar Sarr
+- Rayan Aït-Nouri
+- Ryan Christie
+- Sander Berge
+- Sean Longstaff
+- Timothy Castagne
+- Tomáš Souček
+- Tyrick Mitchell
+- Vinicius Souza
+- Vitaliy Mykolenko
+- Vitaly Janelt
+- Vitinho
+- Vladimír Coufal
+- Wataru Endo
+- Yves Bissouma
+
+Cluster 8:
+- Axel Disasi
+- Billy Gilmour
+- Calvin Bassey
+- Craig Dawson
+- Cristian Romero
+- Dan Burn
+- Dara O'Shea
+- Ethan Pinnock
+- Ezri Konsa
+- Fabian Schär
+- Gabriel Magalhães
+- Ibrahima Konaté
+- Illia Zabarnyi
+- Jack Robinson
+- James Tarkowski
+- Jan Paul van Hecke
+- Jarrad Branthwaite
+- Joachim Andersen
+- Kurt Zouma
+- Lewis Dunk
+- Manuel Akanji
+- Max Kilman
+- Micky van de Ven
+- Murillo
+- Nathan Aké
+- Nathan Collins
+- Nayef Aguerd
+- Pau Torres
+- Rúben Dias
+- Thiago Silva
+- Toti Gomes
+- Virgil van Dijk
+- William Saliba
+

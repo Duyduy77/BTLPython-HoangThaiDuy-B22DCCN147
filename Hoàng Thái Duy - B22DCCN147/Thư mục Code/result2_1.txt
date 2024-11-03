@@ -1,0 +1,2520 @@
+Chỉ số: Age
+Top 3 cầu thủ có điểm cao nhất:
+          Player  Age
+    Ashley Young 38.0
+    Thiago Silva 38.0
+Łukasz Fabiański 38.0
+
+Top 3 cầu thủ có điểm thấp nhất:
+      Player  Age
+Leon Chiwome 17.0
+ Lewis Miley 17.0
+  David Ozoh 18.0
+
+--------------------------------------------------
+
+Chỉ số: Playing_Time_MP
+Top 3 cầu thủ có điểm cao nhất:
+        Player  Playing_Time_MP
+   André Onana               38
+    Bernd Leno               38
+Carlton Morris               38
+
+Top 3 cầu thủ có điểm thấp nhất:
+       Player  Playing_Time_MP
+   Alex Iwobi                2
+   Ionuț Radu                2
+Matheus Nunes                2
+
+--------------------------------------------------
+
+Chỉ số: Playing_Time_Starts
+Top 3 cầu thủ có điểm cao nhất:
+           Player  Playing_Time_Starts
+      André Onana                   38
+       Bernd Leno                   38
+Guglielmo Vicario                   38
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  Playing_Time_Starts
+       David Ozoh                    0
+     Ivan Perišić                    0
+Jesurun Rak Sakyi                    0
+
+--------------------------------------------------
+
+Chỉ số: Playing_Time_Min
+Top 3 cầu thủ có điểm cao nhất:
+           Player  Playing_Time_Min
+      André Onana              3420
+       Bernd Leno              3420
+Guglielmo Vicario              3420
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Playing_Time_Min
+     John Fleck                92
+Kalvin Phillips                93
+   Ivan Perišić               103
+
+--------------------------------------------------
+
+Chỉ số: Performance_Ast
+Top 3 cầu thủ có điểm cao nhất:
+        Player  Performance_Ast
+ Ollie Watkins               13
+   Cole Palmer               11
+Anthony Gordon               10
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Performance_Ast
+Aaron Cresswell                0
+ Aaron Ramsdale                0
+   Aaron Hickey                0
+
+--------------------------------------------------
+
+Chỉ số: Performance_G-PK
+Top 3 cầu thủ có điểm cao nhất:
+        Player  Performance_G-PK
+Erling Haaland                20
+ Ollie Watkins                19
+    Phil Foden                19
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  Performance_G-PK
+  Aaron Cresswell                 0
+   Aaron Ramsdale                 0
+Aaron Wan-Bissaka                 0
+
+--------------------------------------------------
+
+Chỉ số: Performance_PK
+Top 3 cầu thủ có điểm cao nhất:
+        Player  Performance_PK
+   Cole Palmer               9
+Erling Haaland               7
+   Bukayo Saka               6
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  Performance_PK
+  Aaron Cresswell               0
+   Aaron Ramsdale               0
+Aaron Wan-Bissaka               0
+
+--------------------------------------------------
+
+Chỉ số: Performance_CrdY
+Top 3 cầu thủ có điểm cao nhất:
+        Player  Performance_CrdY
+ João Palhinha                13
+ Marcos Senesi                13
+Anthony Gordon                12
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  Performance_CrdY
+Aaron Ramsdale                 0
+    Alex Iwobi                 0
+  Amari'i Bell                 0
+
+--------------------------------------------------
+
+Chỉ số: Performance_CrdR
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Performance_CrdR
+Oliver McBurnie                 2
+    Reece James                 2
+  Yves Bissouma                 2
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  Performance_CrdR
+  Aaron Cresswell                 0
+   Aaron Ramsdale                 0
+Aaron Wan-Bissaka                 0
+
+--------------------------------------------------
+
+Chỉ số: Expected_xG_x
+Top 3 cầu thủ có điểm cao nhất:
+        Player  Expected_xG_x
+Erling Haaland           29.2
+ Mohamed Salah           21.2
+Alexander Isak           20.3
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Expected_xG_x
+Aaron Cresswell            0.0
+ Aaron Ramsdale            0.0
+        Alisson            0.0
+
+--------------------------------------------------
+
+Chỉ số: Expected_npxG_x
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Expected_npxG_x
+ Erling Haaland             22.9
+Nicolas Jackson             18.6
+Dominic Solanke             17.2
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Expected_npxG_x
+Aaron Cresswell              0.0
+ Aaron Ramsdale              0.0
+        Alisson              0.0
+
+--------------------------------------------------
+
+Chỉ số: Expected_xAG
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Expected_xAG
+Bruno Fernandes          11.8
+  Mohamed Salah          11.8
+  Son Heung-min          11.8
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Expected_xAG
+ Aaron Ramsdale           0.0
+Alfie Gilchrist           0.0
+        Alisson           0.0
+
+--------------------------------------------------
+
+Chỉ số: Progression_PrgC
+Top 3 cầu thủ có điểm cao nhất:
+            Player  Progression_PrgC
+       Jeremy Doku               218
+Alejandro Garnacho               178
+       Bukayo Saka               155
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Progression_PrgC
+ Aaron Ramsdale                 0
+        Alisson                 0
+Alphonse Areola                 0
+
+--------------------------------------------------
+
+Chỉ số: Progression_PrgP
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Progression_PrgP
+          Rodri               376
+Martin Ødegaard               344
+    Pascal Groß               302
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  Progression_PrgP
+    Bernd Leno                 0
+Daniel Bentley                 0
+Dean Henderson                 0
+
+--------------------------------------------------
+
+Chỉ số: Progression_PrgR
+Top 3 cầu thủ có điểm cao nhất:
+            Player  Progression_PrgR
+       Bukayo Saka               508
+  Dejan Kulusevski               388
+Gabriel Martinelli               345
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Progression_PrgR
+ Aaron Ramsdale                 0
+        Alisson                 0
+Alphonse Areola                 0
+
+--------------------------------------------------
+
+Chỉ số: Per_90_Minutes_Gls
+Top 3 cầu thủ có điểm cao nhất:
+        Player  Per_90_Minutes_Gls
+Sasa Kalajdzic                1.08
+Erling Haaland                0.95
+    Jhon Durán                0.95
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  Per_90_Minutes_Gls
+  Aaron Cresswell                 0.0
+   Aaron Ramsdale                 0.0
+Aaron Wan-Bissaka                 0.0
+
+--------------------------------------------------
+
+Chỉ số: Per_90_Minutes_Ast
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Per_90_Minutes_Ast
+  Manor Solomon                0.90
+   Ivan Perišić                0.87
+Kevin De Bruyne                0.74
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Per_90_Minutes_Ast
+Aaron Cresswell                 0.0
+ Aaron Ramsdale                 0.0
+   Aaron Hickey                 0.0
+
+--------------------------------------------------
+
+Chỉ số: Per_90_Minutes_G+A
+Top 3 cầu thủ có điểm cao nhất:
+        Player  Per_90_Minutes_G+A
+  Adama Traoré                1.19
+   Cole Palmer                1.14
+Erling Haaland                1.13
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Per_90_Minutes_G+A
+Aaron Cresswell                 0.0
+ Aaron Ramsdale                 0.0
+   Aaron Hickey                 0.0
+
+--------------------------------------------------
+
+Chỉ số: Per_90_Minutes_G-PK
+Top 3 cầu thủ có điểm cao nhất:
+        Player  Per_90_Minutes_G-PK
+Sasa Kalajdzic                 1.08
+    Jhon Durán                 0.95
+ Kieffer Moore                 0.83
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  Per_90_Minutes_G-PK
+  Aaron Cresswell                  0.0
+   Aaron Ramsdale                  0.0
+Aaron Wan-Bissaka                  0.0
+
+--------------------------------------------------
+
+Chỉ số: Per_90_Minutes_G+A-PK
+Top 3 cầu thủ có điểm cao nhất:
+        Player  Per_90_Minutes_G+A-PK
+  Adama Traoré                   1.19
+     Enes Ünal                   1.10
+Sasa Kalajdzic                   1.08
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Per_90_Minutes_G+A-PK
+Aaron Cresswell                    0.0
+ Aaron Ramsdale                    0.0
+   Aaron Hickey                    0.0
+
+--------------------------------------------------
+
+Chỉ số: Per_90_Minutes_xG
+Top 3 cầu thủ có điểm cao nhất:
+        Player  Per_90_Minutes_xG
+ Kieffer Moore               1.23
+   Neal Maupay               1.16
+Erling Haaland               1.03
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Per_90_Minutes_xG
+Aaron Cresswell                0.0
+ Aaron Ramsdale                0.0
+     Adam Smith                0.0
+
+--------------------------------------------------
+
+Chỉ số: Per_90_Minutes_xAG
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Per_90_Minutes_xAG
+Kevin De Bruyne                0.85
+   Ivan Perišić                0.75
+ Sasa Kalajdzic                0.52
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Per_90_Minutes_xAG
+ Aaron Ramsdale                 0.0
+Alfie Gilchrist                 0.0
+        Alisson                 0.0
+
+--------------------------------------------------
+
+Chỉ số: Per_90_Minutes_xG+xAG
+Top 3 cầu thủ có điểm cao nhất:
+        Player  Per_90_Minutes_xG+xAG
+ Kieffer Moore                   1.44
+   Neal Maupay                   1.22
+Erling Haaland                   1.18
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Per_90_Minutes_xG+xAG
+ Aaron Ramsdale                    0.0
+        Alisson                    0.0
+Alphonse Areola                    0.0
+
+--------------------------------------------------
+
+Chỉ số: Per_90_Minutes_npxG
+Top 3 cầu thủ có điểm cao nhất:
+        Player  Per_90_Minutes_npxG
+ Kieffer Moore                 1.23
+   Neal Maupay                 1.16
+Erling Haaland                 0.81
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Per_90_Minutes_npxG
+Aaron Cresswell                  0.0
+ Aaron Ramsdale                  0.0
+     Adam Smith                  0.0
+
+--------------------------------------------------
+
+Chỉ số: Per_90_Minutes_npxG+xAG
+Top 3 cầu thủ có điểm cao nhất:
+        Player  Per_90_Minutes_npxG+xAG
+ Kieffer Moore                     1.44
+   Neal Maupay                     1.22
+Sasa Kalajdzic                     1.09
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Per_90_Minutes_npxG+xAG
+ Aaron Ramsdale                      0.0
+        Alisson                      0.0
+Alphonse Areola                      0.0
+
+--------------------------------------------------
+
+Chỉ số: Performance_GA
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Performance_GA
+Thomas Kaminski            85.0
+Wes Foderingham            79.0
+   Mark Flekken            63.0
+
+Top 3 cầu thủ có điểm thấp nhất:
+          Player  Performance_GA
+Thomas Strakosha             2.0
+  Aaron Ramsdale             5.0
+    Mark Travers             5.0
+
+--------------------------------------------------
+
+Chỉ số: Performance_GA90
+Top 3 cầu thủ có điểm cao nhất:
+     Player  Performance_GA90
+ Ionuț Radu              3.50
+  Ivo Grbić              2.92
+Robin Olsen              2.89
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  Performance_GA90
+    David Raya              0.75
+Aaron Ramsdale              0.83
+       Ederson              0.87
+
+--------------------------------------------------
+
+Chỉ số: Performance_SoTA
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Performance_SoTA
+Thomas Kaminski             221.0
+Wes Foderingham             204.0
+    André Onana             203.0
+
+Top 3 cầu thủ có điểm thấp nhất:
+          Player  Performance_SoTA
+Thomas Strakosha               8.0
+      Ionuț Radu              11.0
+  Aaron Ramsdale              14.0
+
+--------------------------------------------------
+
+Chỉ số: Performance_Saves
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Performance_Saves
+    André Onana              146.0
+Thomas Kaminski              140.0
+Alphonse Areola              136.0
+
+Top 3 cầu thủ có điểm thấp nhất:
+          Player  Performance_Saves
+      Ionuț Radu                4.0
+Thomas Strakosha                6.0
+  Daniel Bentley                8.0
+
+--------------------------------------------------
+
+Chỉ số: Performance_Save%
+Top 3 cầu thủ có điểm cao nhất:
+          Player  Performance_Save%
+  Arijanet Muric               80.8
+    Mark Travers               77.8
+Thomas Strakosha               75.0
+
+Top 3 cầu thủ có điểm thấp nhất:
+              Player  Performance_Save%
+          Ionuț Radu               36.4
+Odisseas Vlachodimos               50.0
+      Daniel Bentley               53.3
+
+--------------------------------------------------
+
+Chỉ số: Performance_W
+Top 3 cầu thủ có điểm cao nhất:
+           Player  Performance_W
+          Ederson           24.0
+       David Raya           23.0
+Guglielmo Vicario           20.0
+
+Top 3 cầu thủ có điểm thấp nhất:
+          Player  Performance_W
+       Ivo Grbić            0.0
+Thomas Strakosha            0.0
+  Daniel Bentley            1.0
+
+--------------------------------------------------
+
+Chỉ số: Performance_D
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Performance_D
+Alphonse Areola            9.0
+Jordan Pickford            9.0
+   Mark Flekken            9.0
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  Performance_D
+Daniel Bentley            0.0
+    Ionuț Radu            0.0
+  Mark Travers            0.0
+
+--------------------------------------------------
+
+Chỉ số: Performance_L
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Performance_L
+Thomas Kaminski           24.0
+Wes Foderingham           22.0
+ James Trafford           20.0
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  Performance_L
+   Aaron Ramsdale            0.0
+Caoimhín Kelleher            0.0
+    Stefan Ortega            0.0
+
+--------------------------------------------------
+
+Chỉ số: Performance_CS
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Performance_CS
+     David Raya            16.0
+Jordan Pickford            13.0
+     Bernd Leno            10.0
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  Performance_CS
+Arijanet Muric             0.0
+    Ionuț Radu             0.0
+     Ivo Grbić             0.0
+
+--------------------------------------------------
+
+Chỉ số: Performance_CS%
+Top 3 cầu thủ có điểm cao nhất:
+       Player  Performance_CS%
+Stefan Ortega             60.0
+   David Raya             50.0
+ Mark Travers             50.0
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  Performance_CS%
+Arijanet Muric              0.0
+    Ionuț Radu              0.0
+     Ivo Grbić              0.0
+
+--------------------------------------------------
+
+Chỉ số: Penalty_Kicks_PKatt
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Penalty_Kicks_PKatt
+     Bernd Leno                  8.0
+Jordan Pickford                  8.0
+        José Sá                  8.0
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  Penalty_Kicks_PKatt
+   Aaron Ramsdale                  0.0
+Caoimhín Kelleher                  0.0
+   Daniel Bentley                  0.0
+
+--------------------------------------------------
+
+Chỉ số: Penalty_Kicks_PKA
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Penalty_Kicks_PKA
+     Bernd Leno                8.0
+Jordan Pickford                8.0
+        José Sá                8.0
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  Penalty_Kicks_PKA
+   Aaron Ramsdale                0.0
+Caoimhín Kelleher                0.0
+   Daniel Bentley                0.0
+
+--------------------------------------------------
+
+Chỉ số: Penalty_Kicks_PKsv
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Penalty_Kicks_PKsv
+Alphonse Areola                 2.0
+ Arijanet Muric                 1.0
+     David Raya                 1.0
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  Penalty_Kicks_PKsv
+Aaron Ramsdale                 0.0
+       Alisson                 0.0
+   André Onana                 0.0
+
+--------------------------------------------------
+
+Chỉ số: Penalty_Kicks_PKm
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Penalty_Kicks_PKm
+      Ivo Grbić                1.0
+Wes Foderingham                1.0
+ Đorđe Petrović                1.0
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Penalty_Kicks_PKm
+ Aaron Ramsdale                0.0
+        Alisson                0.0
+Alphonse Areola                0.0
+
+--------------------------------------------------
+
+Chỉ số: Penalty_Kicks_Save%
+Top 3 cầu thủ có điểm cao nhất:
+        Player  Penalty_Kicks_Save%
+   Robin Olsen                100.0
+Arijanet Muric                 50.0
+    David Raya                 33.3
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Penalty_Kicks_Save%
+        Alisson                  0.0
+    André Onana                  0.0
+Bart Verbruggen                  0.0
+
+--------------------------------------------------
+
+Chỉ số: Standard_Gls
+Top 3 cầu thủ có điểm cao nhất:
+        Player  Standard_Gls
+Erling Haaland            27
+   Cole Palmer            22
+Alexander Isak            21
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  Standard_Gls
+  Aaron Cresswell             0
+   Aaron Ramsdale             0
+Aaron Wan-Bissaka             0
+
+--------------------------------------------------
+
+Chỉ số: Standard_Sh
+Top 3 cầu thủ có điểm cao nhất:
+        Player  Standard_Sh
+Erling Haaland          113
+  Darwin Núñez          107
+ Mohamed Salah          107
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Standard_Sh
+Aaron Cresswell            0
+ Aaron Ramsdale            0
+        Alisson            0
+
+--------------------------------------------------
+
+Chỉ số: Standard_SoT
+Top 3 cầu thủ có điểm cao nhất:
+        Player  Standard_SoT
+Erling Haaland            50
+    Phil Foden            48
+ Mohamed Salah            47
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Standard_SoT
+Aaron Cresswell             0
+ Aaron Ramsdale             0
+     Adam Smith             0
+
+--------------------------------------------------
+
+Chỉ số: Standard_SoT%
+Top 3 cầu thủ có điểm cao nhất:
+      Player  Standard_SoT%
+Amari'i Bell          100.0
+Bénie Traoré          100.0
+Chris Mepham          100.0
+
+Top 3 cầu thủ có điểm thấp nhất:
+            Player  Standard_SoT%
+        Adam Smith            0.0
+      Adam Webster            0.0
+Andrew Omobamidele            0.0
+
+--------------------------------------------------
+
+Chỉ số: Standard_Sh/90
+Top 3 cầu thủ có điểm cao nhất:
+       Player  Standard_Sh/90
+    Enes Ünal            6.31
+ Julio Enciso            5.31
+Kieffer Moore            5.00
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Standard_Sh/90
+Aaron Cresswell             0.0
+ Aaron Ramsdale             0.0
+        Alisson             0.0
+
+--------------------------------------------------
+
+Chỉ số: Standard_SoT/90
+Top 3 cầu thủ có điểm cao nhất:
+      Player  Standard_SoT/90
+ Neal Maupay             3.24
+Matt Ritchie             2.81
+   Enes Ünal             2.20
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Standard_SoT/90
+Aaron Cresswell              0.0
+ Aaron Ramsdale              0.0
+     Adam Smith              0.0
+
+--------------------------------------------------
+
+Chỉ số: Standard_G/Sh
+Top 3 cầu thủ có điểm cao nhất:
+            Player  Standard_G/Sh
+   Hannibal Mejbri            1.0
+          Tim Ream            1.0
+Leander Dendoncker            0.5
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  Standard_G/Sh
+Aaron Wan-Bissaka            0.0
+     Aaron Hickey            0.0
+     Aaron Ramsey            0.0
+
+--------------------------------------------------
+
+Chỉ số: Standard_G/SoT
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Standard_G/SoT
+Alfie Gilchrist             1.0
+        Ben Mee             1.0
+  Calvin Bassey             1.0
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  Standard_G/SoT
+Aaron Wan-Bissaka             0.0
+     Aaron Hickey             0.0
+     Aaron Ramsey             0.0
+
+--------------------------------------------------
+
+Chỉ số: Standard_Dist
+Top 3 cầu thủ có điểm cao nhất:
+        Player  Standard_Dist
+Oliver Norwood           32.9
+   Kyle Walker           29.4
+Moisés Caicedo           29.0
+
+Top 3 cầu thủ có điểm thấp nhất:
+            Player  Standard_Dist
+          Tim Ream            1.3
+Andrew Omobamidele            5.1
+       Jonny Evans            5.4
+
+--------------------------------------------------
+
+Chỉ số: Standard_FK
+Top 3 cầu thủ có điểm cao nhất:
+           Player  Standard_FK
+James Ward-Prowse           16
+   Julián Álvarez           13
+     Eberechi Eze           12
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  Standard_FK
+  Aaron Cresswell            0
+   Aaron Ramsdale            0
+Aaron Wan-Bissaka            0
+
+--------------------------------------------------
+
+Chỉ số: Standard_PK
+Top 3 cầu thủ có điểm cao nhất:
+        Player  Standard_PK
+   Cole Palmer            9
+Erling Haaland            7
+   Bukayo Saka            6
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  Standard_PK
+  Aaron Cresswell            0
+   Aaron Ramsdale            0
+Aaron Wan-Bissaka            0
+
+--------------------------------------------------
+
+Chỉ số: Standard_PKatt
+Top 3 cầu thủ có điểm cao nhất:
+        Player  Standard_PKatt
+   Cole Palmer               9
+Erling Haaland               8
+ Mohamed Salah               7
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  Standard_PKatt
+  Aaron Cresswell               0
+   Aaron Ramsdale               0
+Aaron Wan-Bissaka               0
+
+--------------------------------------------------
+
+Chỉ số: Expected_xG_y
+Top 3 cầu thủ có điểm cao nhất:
+        Player  Expected_xG_y
+Erling Haaland           29.2
+ Mohamed Salah           21.2
+Alexander Isak           20.3
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Expected_xG_y
+Aaron Cresswell            0.0
+ Aaron Ramsdale            0.0
+        Alisson            0.0
+
+--------------------------------------------------
+
+Chỉ số: Expected_npxG_y
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Expected_npxG_y
+ Erling Haaland             22.9
+Nicolas Jackson             18.6
+Dominic Solanke             17.2
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Expected_npxG_y
+Aaron Cresswell              0.0
+ Aaron Ramsdale              0.0
+        Alisson              0.0
+
+--------------------------------------------------
+
+Chỉ số: Expected_npxG/Sh
+Top 3 cầu thủ có điểm cao nhất:
+            Player  Expected_npxG/Sh
+          Tim Ream              0.96
+  Shandon Baptiste              0.45
+Leander Dendoncker              0.37
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  Expected_npxG/Sh
+ Benson Manuel              0.02
+Charlie Taylor              0.02
+George Baldock              0.02
+
+--------------------------------------------------
+
+Chỉ số: Expected_G-xG
+Top 3 cầu thủ có điểm cao nhất:
+              Player  Expected_G-xG
+          Phil Foden            8.7
+  Callum Hudson-Odoi            5.3
+Jean-Philippe Mateta            5.1
+
+Top 3 cầu thủ có điểm thấp nhất:
+               Player  Expected_G-xG
+Dominic Calvert-Lewin           -5.9
+      Brennan Johnson           -5.3
+         Darwin Núñez           -5.3
+
+--------------------------------------------------
+
+Chỉ số: Expected_np:G-xG
+Top 3 cầu thủ có điểm cao nhất:
+            Player  Expected_np:G-xG
+        Phil Foden               8.7
+Callum Hudson-Odoi               5.3
+        Diogo Jota               4.7
+
+Top 3 cầu thủ có điểm thấp nhất:
+               Player  Expected_np:G-xG
+Dominic Calvert-Lewin              -6.4
+      Brennan Johnson              -5.3
+      Nicolas Jackson              -4.6
+
+--------------------------------------------------
+
+Chỉ số: Total_Cmp
+Top 3 cầu thủ có điểm cao nhất:
+     Player  Total_Cmp
+      Rodri       3365
+ Lewis Dunk       2977
+Pascal Groß       2774
+
+Top 3 cầu thủ có điểm thấp nhất:
+      Player  Total_Cmp
+Leon Chiwome         19
+ Neal Maupay         22
+  Alex Iwobi         27
+
+--------------------------------------------------
+
+Chỉ số: Total_Att
+Top 3 cầu thủ có điểm cao nhất:
+     Player  Total_Att
+      Rodri       3656
+ Lewis Dunk       3233
+Pascal Groß       3223
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Total_Att
+   Leon Chiwome         22
+    Neal Maupay         26
+Hannibal Mejbri         38
+
+--------------------------------------------------
+
+Chỉ số: Total_Cmp%
+Top 3 cầu thủ có điểm cao nhất:
+       Player  Total_Cmp%
+ Thiago Silva        94.7
+   David Ozoh        94.1
+Mateo Kovačić        94.0
+
+Top 3 cầu thủ có điểm thấp nhất:
+       Player  Total_Cmp%
+    Ivo Grbić        49.7
+William Osula        52.7
+   Ivan Toney        53.5
+
+--------------------------------------------------
+
+Chỉ số: Total_TotDist
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Total_TotDist
+          Rodri          57256
+     Lewis Dunk          50791
+Virgil van Dijk          49290
+
+Top 3 cầu thủ có điểm thấp nhất:
+       Player  Total_TotDist
+ Leon Chiwome            244
+Kieffer Moore            272
+  Neal Maupay            353
+
+--------------------------------------------------
+
+Chỉ số: Total_PrgDist
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Total_PrgDist
+Jordan Pickford          26388
+   Mark Flekken          22385
+Thomas Kaminski          22188
+
+Top 3 cầu thủ có điểm thấp nhất:
+       Player  Total_PrgDist
+  Neal Maupay             14
+Nathan Fraser             45
+ Leon Chiwome             59
+
+--------------------------------------------------
+
+Chỉ số: Short_Cmp
+Top 3 cầu thủ có điểm cao nhất:
+     Player  Short_Cmp
+      Rodri       1676
+Pascal Groß       1583
+ Lewis Dunk       1343
+
+Top 3 cầu thủ có điểm thấp nhất:
+          Player  Short_Cmp
+Thomas Strakosha          6
+    Mark Travers         10
+    Leon Chiwome         12
+
+--------------------------------------------------
+
+Chỉ số: Short_Att
+Top 3 cầu thủ có điểm cao nhất:
+     Player  Short_Att
+      Rodri       1774
+Pascal Groß       1674
+ Lewis Dunk       1382
+
+Top 3 cầu thủ có điểm thấp nhất:
+          Player  Short_Att
+Thomas Strakosha          6
+    Mark Travers         10
+    Leon Chiwome         13
+
+--------------------------------------------------
+
+Chỉ số: Short_Cmp%
+Top 3 cầu thủ có điểm cao nhất:
+           Player  Short_Cmp%
+   Aaron Ramsdale       100.0
+    Benson Manuel       100.0
+Caoimhín Kelleher       100.0
+
+Top 3 cầu thủ có điểm thấp nhất:
+          Player  Short_Cmp%
+   William Osula        58.9
+Youssef Chermiti        59.4
+      Ivan Toney        61.6
+
+--------------------------------------------------
+
+Chỉ số: Medium_Cmp
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Medium_Cmp
+Virgil van Dijk        1343
+     Lewis Dunk        1340
+ William Saliba        1298
+
+Top 3 cầu thủ có điểm thấp nhất:
+       Player  Medium_Cmp
+Kieffer Moore           4
+ Leon Chiwome           6
+Maxwel Cornet           6
+
+--------------------------------------------------
+
+Chỉ số: Medium_Att
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Medium_Att
+     Lewis Dunk        1417
+Virgil van Dijk        1412
+ William Saliba        1373
+
+Top 3 cầu thủ có điểm thấp nhất:
+       Player  Medium_Att
+ Leon Chiwome           6
+Kieffer Moore           8
+Maxwel Cornet           8
+
+--------------------------------------------------
+
+Chỉ số: Medium_Cmp%
+Top 3 cầu thủ có điểm cao nhất:
+        Player  Medium_Cmp%
+Daniel Bentley        100.0
+    David Ozoh        100.0
+  Leon Chiwome        100.0
+
+Top 3 cầu thủ có điểm thấp nhất:
+               Player  Medium_Cmp%
+        William Osula         40.0
+       Rhian Brewster         45.5
+Dominic Calvert-Lewin         49.5
+
+--------------------------------------------------
+
+Chỉ số: Long_Cmp
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Long_Cmp
+Jordan Pickford       461
+   Mark Flekken       394
+Thomas Kaminski       362
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  Long_Cmp
+       David Ozoh         0
+Facundo Pellistri         0
+    Kieffer Moore         0
+
+--------------------------------------------------
+
+Chỉ số: Long_Att
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Long_Att
+Jordan Pickford      1031
+Thomas Kaminski       937
+   Mark Flekken       832
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  Long_Att
+       David Ozoh         0
+Facundo Pellistri         0
+    Kieffer Moore         0
+
+--------------------------------------------------
+
+Chỉ số: Long_Cmp%
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Long_Cmp%
+Brennan Johnson      100.0
+   Bénie Traoré      100.0
+Carlos Vinícius      100.0
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  Long_Cmp%
+ Maxwel Cornet        0.0
+    Danny Ings       12.5
+Jaidon Anthony       16.7
+
+--------------------------------------------------
+
+Chỉ số: Ast
+Top 3 cầu thủ có điểm cao nhất:
+        Player  Ast
+ Ollie Watkins   13
+   Cole Palmer   11
+Anthony Gordon   10
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Ast
+Aaron Cresswell    0
+ Aaron Ramsdale    0
+   Aaron Hickey    0
+
+--------------------------------------------------
+
+Chỉ số: xAG
+Top 3 cầu thủ có điểm cao nhất:
+         Player  xAG
+Bruno Fernandes 11.8
+  Mohamed Salah 11.8
+  Son Heung-min 11.8
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  xAG
+ Aaron Ramsdale  0.0
+Alfie Gilchrist  0.0
+        Alisson  0.0
+
+--------------------------------------------------
+
+Chỉ số: Expected_xA
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Expected_xA
+Martin Ødegaard         11.2
+    Bukayo Saka         11.0
+Bruno Fernandes         10.2
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Expected_xA
+ Aaron Ramsdale          0.0
+Alfie Gilchrist          0.0
+        Alisson          0.0
+
+--------------------------------------------------
+
+Chỉ số: Expected_A-xAG
+Top 3 cầu thủ có điểm cao nhất:
+       Player  Expected_A-xAG
+Ollie Watkins             5.7
+        Rodri             5.1
+   Pedro Neto             4.6
+
+Top 3 cầu thủ có điểm thấp nhất:
+            Player  Expected_A-xAG
+  Dejan Kulusevski            -4.7
+   Bruno Fernandes            -3.8
+Dominik Szoboszlai            -3.8
+
+--------------------------------------------------
+
+Chỉ số: KP
+Top 3 cầu thủ có điểm cao nhất:
+         Player  KP
+Bruno Fernandes 114
+    Pascal Groß 103
+Martin Ødegaard 102
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  KP
+ Aaron Ramsdale   0
+Alfie Gilchrist   0
+Alphonse Areola   0
+
+--------------------------------------------------
+
+Chỉ số: 1/3
+Top 3 cầu thủ có điểm cao nhất:
+     Player  1/3
+      Rodri  378
+Pascal Groß  242
+Declan Rice  240
+
+Top 3 cầu thủ có điểm thấp nhất:
+       Player  1/3
+   Ionuț Radu    0
+ Lewis Dobbin    0
+Maxwel Cornet    0
+
+--------------------------------------------------
+
+Chỉ số: PPA
+Top 3 cầu thủ có điểm cao nhất:
+         Player  PPA
+Martin Ødegaard  130
+Bruno Fernandes   89
+    Bukayo Saka   73
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  PPA
+ Aaron Ramsdale    0
+        Alisson    0
+Alphonse Areola    0
+
+--------------------------------------------------
+
+Chỉ số: CrsPA
+Top 3 cầu thủ có điểm cao nhất:
+          Player  CrsPA
+     Pascal Groß     27
+Antonee Robinson     26
+   Alfie Doughty     24
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  CrsPA
+Aaron Cresswell      0
+ Aaron Ramsdale      0
+   Aaron Hickey      0
+
+--------------------------------------------------
+
+Chỉ số: PrgP
+Top 3 cầu thủ có điểm cao nhất:
+         Player  PrgP
+          Rodri   376
+Martin Ødegaard   344
+    Pascal Groß   302
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  PrgP
+    Bernd Leno     0
+Daniel Bentley     0
+Dean Henderson     0
+
+--------------------------------------------------
+
+Chỉ số: Pass_Types_Live
+Top 3 cầu thủ có điểm cao nhất:
+     Player  Pass_Types_Live
+      Rodri             3572
+ Lewis Dunk             3005
+Pascal Groß             2903
+
+Top 3 cầu thủ có điểm thấp nhất:
+      Player  Pass_Types_Live
+Leon Chiwome               18
+ Neal Maupay               23
+  Alex Iwobi               34
+
+--------------------------------------------------
+
+Chỉ số: Pass_Types_Dead
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Pass_Types_Dead
+Jordan Pickford              496
+Thomas Kaminski              493
+  Alfie Doughty              489
+
+Top 3 cầu thủ có điểm thấp nhất:
+            Player  Pass_Types_Dead
+    Calum Chambers                0
+Carney Chukwuemeka                0
+  Cheikhou Kouyaté                0
+
+--------------------------------------------------
+
+Chỉ số: Pass_Types_FK
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Pass_Types_FK
+Jordan Pickford            223
+   Mark Flekken            166
+Thomas Kaminski            152
+
+Top 3 cầu thủ có điểm thấp nhất:
+            Player  Pass_Types_FK
+Abdoulaye Doucouré              0
+      Adama Traoré              0
+        Alex Iwobi              0
+
+--------------------------------------------------
+
+Chỉ số: Pass_Types_TB
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Pass_Types_TB
+Martin Ødegaard             39
+Bruno Fernandes             30
+  Lucas Paquetá             30
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  Pass_Types_TB
+  Aaron Cresswell              0
+   Aaron Ramsdale              0
+Aaron Wan-Bissaka              0
+
+--------------------------------------------------
+
+Chỉ số: Pass_Types_Sw
+Top 3 cầu thủ có điểm cao nhất:
+                Player  Pass_Types_Sw
+          Fabian Schär             41
+                 Rodri             36
+Trent Alexander-Arnold             32
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  Pass_Types_Sw
+Aaron Ramsdale              0
+  Aaron Ramsey              0
+  Adam Lallana              0
+
+--------------------------------------------------
+
+Chỉ số: Pass_Types_Crs
+Top 3 cầu thủ có điểm cao nhất:
+       Player  Pass_Types_Crs
+Alfie Doughty             340
+  Pascal Groß             238
+Dwight McNeil             229
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Pass_Types_Crs
+ Aaron Ramsdale               0
+        Alisson               0
+Alphonse Areola               0
+
+--------------------------------------------------
+
+Chỉ số: Pass_Types_TI
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Pass_Types_TI
+Tyrick Mitchell            347
+Vladimír Coufal            319
+    Pedro Porro            295
+
+Top 3 cầu thủ có điểm thấp nhất:
+            Player  Pass_Types_TI
+    Aaron Ramsdale              0
+Abdoulaye Doucouré              0
+      Adam Lallana              0
+
+--------------------------------------------------
+
+Chỉ số: Pass_Types_CK
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Pass_Types_CK
+  Alfie Doughty            151
+Bruno Fernandes            151
+Andreas Pereira            148
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  Pass_Types_CK
+   Aaron Ramsdale              0
+Aaron Wan-Bissaka              0
+     Aaron Hickey              0
+
+--------------------------------------------------
+
+Chỉ số: Corner_Kicks_In
+Top 3 cầu thủ có điểm cao nhất:
+       Player  Corner_Kicks_In
+  Bukayo Saka               99
+   Lewis Cook               81
+Alfie Doughty               66
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  Corner_Kicks_In
+   Aaron Ramsdale                0
+Aaron Wan-Bissaka                0
+     Aaron Hickey                0
+
+--------------------------------------------------
+
+Chỉ số: Corner_Kicks_Out
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Corner_Kicks_Out
+  Alfie Doughty                80
+Andreas Pereira                74
+    Pascal Groß                57
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  Corner_Kicks_Out
+   Aaron Ramsdale                 0
+Aaron Wan-Bissaka                 0
+     Aaron Hickey                 0
+
+--------------------------------------------------
+
+Chỉ số: Corner_Kicks_Str
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Corner_Kicks_Str
+  Pablo Sarabia                10
+Bruno Fernandes                 8
+Kieran Trippier                 8
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  Corner_Kicks_Str
+  Aaron Cresswell                 0
+   Aaron Ramsdale                 0
+Aaron Wan-Bissaka                 0
+
+--------------------------------------------------
+
+Chỉ số: Outcomes_Cmp
+Top 3 cầu thủ có điểm cao nhất:
+     Player  Outcomes_Cmp
+      Rodri          3365
+ Lewis Dunk          2977
+Pascal Groß          2774
+
+Top 3 cầu thủ có điểm thấp nhất:
+      Player  Outcomes_Cmp
+Leon Chiwome            19
+ Neal Maupay            22
+  Alex Iwobi            27
+
+--------------------------------------------------
+
+Chỉ số: Outcomes_Off
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Outcomes_Off
+Bruno Fernandes            23
+ Enzo Fernández            17
+Martin Ødegaard            16
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Outcomes_Off
+Aaron Cresswell             0
+ Aaron Ramsdale             0
+   Aaron Hickey             0
+
+--------------------------------------------------
+
+Chỉ số: Outcomes_Blocks
+Top 3 cầu thủ có điểm cao nhất:
+          Player  Outcomes_Blocks
+ Tyrick Mitchell               70
+Antonee Robinson               68
+     Pedro Porro               68
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Outcomes_Blocks
+Alfie Gilchrist                0
+Alphonse Areola                0
+ Arijanet Muric                0
+
+--------------------------------------------------
+
+Chỉ số: SCA_SCA
+Top 3 cầu thủ có điểm cao nhất:
+         Player  SCA_SCA
+Martin Ødegaard      220
+Bruno Fernandes      210
+    Bukayo Saka      188
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  SCA_SCA
+Aaron Ramsdale        0
+Angelo Ogbonna        0
+    David Ozoh        0
+
+--------------------------------------------------
+
+Chỉ số: SCA_SCA90
+Top 3 cầu thủ có điểm cao nhất:
+         Player  SCA_SCA90
+  Manor Solomon       8.59
+     Alex Iwobi       7.77
+Kevin De Bruyne       7.36
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  SCA_SCA90
+Aaron Ramsdale        0.0
+Angelo Ogbonna        0.0
+    David Ozoh        0.0
+
+--------------------------------------------------
+
+Chỉ số: SCA_Types_PassLive
+Top 3 cầu thủ có điểm cao nhất:
+         Player  SCA_Types_PassLive
+Martin Ødegaard                 178
+Bruno Fernandes                 143
+    Bukayo Saka                 137
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  SCA_Types_PassLive
+Aaron Ramsdale                   0
+Angelo Ogbonna                   0
+    David Ozoh                   0
+
+--------------------------------------------------
+
+Chỉ số: SCA_Types_PassDead
+Top 3 cầu thủ có điểm cao nhất:
+           Player  SCA_Types_PassDead
+      Pascal Groß                  54
+James Ward-Prowse                  51
+  Andreas Pereira                  48
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  SCA_Types_PassDead
+Aaron Ramsdale                   0
+  Aaron Hickey                   0
+  Aaron Ramsey                   0
+
+--------------------------------------------------
+
+Chỉ số: SCA_Types_TO
+Top 3 cầu thủ có điểm cao nhất:
+         Player  SCA_Types_TO
+ Mohammed Kudus            25
+Nicolas Jackson            18
+    Jeremy Doku            17
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  SCA_Types_TO
+  Aaron Cresswell             0
+   Aaron Ramsdale             0
+Aaron Wan-Bissaka             0
+
+--------------------------------------------------
+
+Chỉ số: SCA_Types_Sh
+Top 3 cầu thủ có điểm cao nhất:
+       Player  SCA_Types_Sh
+Mohamed Salah            21
+Ollie Watkins            18
+    Luis Díaz            15
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  SCA_Types_Sh
+  Aaron Cresswell             0
+   Aaron Ramsdale             0
+Aaron Wan-Bissaka             0
+
+--------------------------------------------------
+
+Chỉ số: SCA_Types_Fld
+Top 3 cầu thủ có điểm cao nhất:
+            Player  SCA_Types_Fld
+    Anthony Gordon             13
+Alejandro Garnacho             12
+       Jordan Ayew             12
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  SCA_Types_Fld
+Aaron Ramsdale              0
+  Aaron Ramsey              0
+  Adam Webster              0
+
+--------------------------------------------------
+
+Chỉ số: SCA_Types_Def
+Top 3 cầu thủ có điểm cao nhất:
+            Player  SCA_Types_Def
+   Bruno Guimarães              6
+   Conor Gallagher              6
+Idrissa Gana Gueye              6
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  SCA_Types_Def
+  Aaron Cresswell              0
+   Aaron Ramsdale              0
+Aaron Wan-Bissaka              0
+
+--------------------------------------------------
+
+Chỉ số: GCA_GCA
+Top 3 cầu thủ có điểm cao nhất:
+        Player  GCA_GCA
+Anthony Gordon       29
+   Cole Palmer       26
+ Ollie Watkins       26
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  GCA_GCA
+Aaron Ramsdale        0
+  Aaron Hickey        0
+  Aaron Ramsey        0
+
+--------------------------------------------------
+
+Chỉ số: GCA_GCA90
+Top 3 cầu thủ có điểm cao nhất:
+            Player  GCA_GCA90
+        Oscar Bobb       1.79
+      Ivan Perišić       1.75
+Carney Chukwuemeka       1.59
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  GCA_GCA90
+Aaron Ramsdale        0.0
+  Aaron Hickey        0.0
+  Aaron Ramsey        0.0
+
+--------------------------------------------------
+
+Chỉ số: GCA_Types_PassLive
+Top 3 cầu thủ có điểm cao nhất:
+         Player  GCA_Types_PassLive
+    Cole Palmer                  20
+Martin Ødegaard                  18
+          Rodri                  17
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  GCA_Types_PassLive
+Aaron Ramsdale                   0
+  Aaron Hickey                   0
+  Aaron Ramsey                   0
+
+--------------------------------------------------
+
+Chỉ số: GCA_Types_PassDead
+Top 3 cầu thủ có điểm cao nhất:
+           Player  GCA_Types_PassDead
+James Ward-Prowse                   7
+    Alfie Doughty                   5
+  Conor Gallagher                   5
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  GCA_Types_PassDead
+  Aaron Cresswell                   0
+   Aaron Ramsdale                   0
+Aaron Wan-Bissaka                   0
+
+--------------------------------------------------
+
+Chỉ số: GCA_Types_TO
+Top 3 cầu thủ có điểm cao nhất:
+         Player  GCA_Types_TO
+ Anthony Gordon             5
+Bruno Guimarães             4
+     Diogo Jota             4
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  GCA_Types_TO
+  Aaron Cresswell             0
+   Aaron Ramsdale             0
+Aaron Wan-Bissaka             0
+
+--------------------------------------------------
+
+Chỉ số: GCA_Types_Sh
+Top 3 cầu thủ có điểm cao nhất:
+        Player  GCA_Types_Sh
+ Ollie Watkins             7
+Anthony Gordon             4
+Carlton Morris             3
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  GCA_Types_Sh
+  Aaron Cresswell             0
+   Aaron Ramsdale             0
+Aaron Wan-Bissaka             0
+
+--------------------------------------------------
+
+Chỉ số: GCA_Types_Fld
+Top 3 cầu thủ có điểm cao nhất:
+          Player  GCA_Types_Fld
+  Anthony Gordon              5
+Chiedozie Ogbene              4
+   Eddie Nketiah              3
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  GCA_Types_Fld
+  Aaron Cresswell              0
+   Aaron Ramsdale              0
+Aaron Wan-Bissaka              0
+
+--------------------------------------------------
+
+Chỉ số: GCA_Types_Def
+Top 3 cầu thủ có điểm cao nhất:
+      Player  GCA_Types_Def
+      Antony              2
+ Cole Palmer              2
+James Garner              2
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  GCA_Types_Def
+  Aaron Cresswell              0
+   Aaron Ramsdale              0
+Aaron Wan-Bissaka              0
+
+--------------------------------------------------
+
+Chỉ số: Tackles_Tkl
+Top 3 cầu thủ có điểm cao nhất:
+        Player  Tackles_Tkl
+ João Palhinha          152
+    João Gomes          128
+Vinicius Souza          125
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  Tackles_Tkl
+Aaron Ramsdale            0
+       Alisson            0
+    Bernd Leno            0
+
+--------------------------------------------------
+
+Chỉ số: Tackles_TklW
+Top 3 cầu thủ có điểm cao nhất:
+        Player  Tackles_TklW
+Vinicius Souza            76
+ João Palhinha            75
+    João Gomes            74
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  Tackles_TklW
+Aaron Ramsdale             0
+    Alex Iwobi             0
+Alexander Isak             0
+
+--------------------------------------------------
+
+Chỉ số: Tackles_Def3rd
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Tackles_Def3rd
+  João Palhinha              80
+Tyrick Mitchell              75
+     João Gomes              67
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  Tackles_Def3rd
+Aaron Ramsdale               0
+       Alisson               0
+ Armando Broja               0
+
+--------------------------------------------------
+
+Chỉ số: Tackles_Mid3rd
+Top 3 cầu thủ có điểm cao nhất:
+             Player  Tackles_Mid3rd
+      João Palhinha              60
+     Vinicius Souza              51
+Alexis Mac Allister              50
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Tackles_Mid3rd
+ Aaron Ramsdale               0
+     Alex Iwobi               0
+Alfie Gilchrist               0
+
+--------------------------------------------------
+
+Chỉ số: Tackles_Att3rd
+Top 3 cầu thủ có điểm cao nhất:
+          Player  Tackles_Att3rd
+Dejan Kulusevski              23
+     Bukayo Saka              20
+ Conor Gallagher              17
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Tackles_Att3rd
+ Aaron Ramsdale               0
+   Adam Lallana               0
+Alfie Gilchrist               0
+
+--------------------------------------------------
+
+Chỉ số: Challenges_Tkl
+Top 3 cầu thủ có điểm cao nhất:
+             Player  Challenges_Tkl
+      João Palhinha             103
+        Pedro Porro              62
+Alexis Mac Allister              59
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  Challenges_Tkl
+Aaron Ramsdale               0
+  Adam Lallana               0
+       Alisson               0
+
+--------------------------------------------------
+
+Chỉ số: Challenges_Att
+Top 3 cầu thủ có điểm cao nhất:
+             Player  Challenges_Att
+      João Palhinha             152
+Alexis Mac Allister             125
+        Pedro Porro             120
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  Challenges_Att
+Aaron Ramsdale               0
+ Benson Manuel               0
+    Bernd Leno               0
+
+--------------------------------------------------
+
+Chỉ số: Challenges_Tkl%
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Challenges_Tkl%
+   Aaron Hickey            100.0
+    André Onana            100.0
+Anthony Martial            100.0
+
+Top 3 cầu thủ có điểm thấp nhất:
+       Player  Challenges_Tkl%
+ Adam Lallana              0.0
+      Alisson              0.0
+Anass Zaroury              0.0
+
+--------------------------------------------------
+
+Chỉ số: Challenges_Lost
+Top 3 cầu thủ có điểm cao nhất:
+                Player  Challenges_Lost
+        Mathias Jensen               69
+   Alexis Mac Allister               66
+Trent Alexander-Arnold               60
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  Challenges_Lost
+Aaron Ramsdale                0
+  Aaron Hickey                0
+   André Onana                0
+
+--------------------------------------------------
+
+Chỉ số: Blocks_Blocks
+Top 3 cầu thủ có điểm cao nhất:
+             Player  Blocks_Blocks
+    James Tarkowski             82
+           Casemiro             74
+Alexis Mac Allister             65
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Blocks_Blocks
+ Aaron Ramsdale              0
+        Alisson              0
+Alphonse Areola              0
+
+--------------------------------------------------
+
+Chỉ số: Blocks_Sh
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Blocks_Sh
+James Tarkowski         56
+   Craig Dawson         39
+   Fabian Schär         38
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  Blocks_Sh
+Aaron Ramsdale          0
+  Adama Traoré          0
+    Alex Iwobi          0
+
+--------------------------------------------------
+
+Chỉ số: Blocks_Pass
+Top 3 cầu thủ có điểm cao nhất:
+             Player  Blocks_Pass
+Alexis Mac Allister           57
+    Tyrick Mitchell           53
+   Antonee Robinson           48
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Blocks_Pass
+ Aaron Ramsdale            0
+        Alisson            0
+Alphonse Areola            0
+
+--------------------------------------------------
+
+Chỉ số: Int
+Top 3 cầu thủ có điểm cao nhất:
+          Player  Int
+Antonee Robinson   80
+      Lewis Cook   65
+     Teden Mengi   57
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  Int
+Aaron Ramsdale    0
+       Alisson    0
+ Anass Zaroury    0
+
+--------------------------------------------------
+
+Chỉ số: Tkl+Int
+Top 3 cầu thủ có điểm cao nhất:
+          Player  Tkl+Int
+   João Palhinha      198
+Antonee Robinson      173
+  Vinicius Souza      157
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  Tkl+Int
+Aaron Ramsdale        0
+       Alisson        0
+    Bernd Leno        0
+
+--------------------------------------------------
+
+Chỉ số: Clr
+Top 3 cầu thủ có điểm cao nhất:
+          Player  Clr
+Joachim Andersen  207
+ James Tarkowski  191
+         Murillo  188
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  Clr
+    Alex Iwobi    0
+Arnaut Danjuma    0
+ Benson Manuel    0
+
+--------------------------------------------------
+
+Chỉ số: Err
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Err
+Wes Foderingham    6
+     David Raya    5
+ Destiny Udogie    5
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Err
+Aaron Cresswell    0
+   Aaron Hickey    0
+   Aaron Ramsey    0
+
+--------------------------------------------------
+
+Chỉ số: Touches_Touches
+Top 3 cầu thủ có điểm cao nhất:
+     Player  Touches_Touches
+      Rodri             3988
+Pascal Groß             3534
+ Lewis Dunk             3481
+
+Top 3 cầu thủ có điểm thấp nhất:
+      Player  Touches_Touches
+Leon Chiwome               39
+ Neal Maupay               40
+  John Fleck               49
+
+--------------------------------------------------
+
+Chỉ số: Touches_DefPen
+Top 3 cầu thủ có điểm cao nhất:
+           Player  Touches_DefPen
+       Bernd Leno            1275
+     Mark Flekken            1268
+Guglielmo Vicario            1252
+
+Top 3 cầu thủ có điểm thấp nhất:
+       Player  Touches_DefPen
+   Alex Iwobi               0
+Benson Manuel               0
+Kieffer Moore               0
+
+--------------------------------------------------
+
+Chỉ số: Touches_Def3rd
+Top 3 cầu thủ có điểm cao nhất:
+           Player  Touches_Def3rd
+       Lewis Dunk            1811
+Guglielmo Vicario            1664
+       Bernd Leno            1645
+
+Top 3 cầu thủ có điểm thấp nhất:
+       Player  Touches_Def3rd
+  Neal Maupay               1
+Kieffer Moore               2
+   Alex Iwobi               5
+
+--------------------------------------------------
+
+Chỉ số: Touches_Mid3rd
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Touches_Mid3rd
+          Rodri            2337
+Virgil van Dijk            1757
+ William Saliba            1720
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  Touches_Mid3rd
+Dean Henderson               0
+    Ionuț Radu               0
+  Mark Travers               0
+
+--------------------------------------------------
+
+Chỉ số: Touches_Att3rd
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Touches_Att3rd
+    Bukayo Saka            1310
+     Phil Foden            1211
+Martin Ødegaard            1173
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Touches_Att3rd
+ Aaron Ramsdale               0
+        Alisson               0
+Alphonse Areola               0
+
+--------------------------------------------------
+
+Chỉ số: Touches_AttPen
+Top 3 cầu thủ có điểm cao nhất:
+            Player  Touches_AttPen
+       Bukayo Saka             271
+Alejandro Garnacho             248
+     Mohamed Salah             241
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Touches_AttPen
+ Aaron Ramsdale               0
+        Alisson               0
+Alphonse Areola               0
+
+--------------------------------------------------
+
+Chỉ số: Touches_Live
+Top 3 cầu thủ có điểm cao nhất:
+     Player  Touches_Live
+      Rodri          3988
+Pascal Groß          3533
+ Lewis Dunk          3481
+
+Top 3 cầu thủ có điểm thấp nhất:
+      Player  Touches_Live
+Leon Chiwome            39
+ Neal Maupay            40
+  John Fleck            49
+
+--------------------------------------------------
+
+Chỉ số: Take-Ons_Att
+Top 3 cầu thủ có điểm cao nhất:
+        Player  Take-Ons_Att
+Mohammed Kudus           221
+   Jeremy Doku           169
+  Eberechi Eze           140
+
+Top 3 cầu thủ có điểm thấp nhất:
+            Player  Take-Ons_Att
+    Aaron Ramsdale             0
+           Alisson             0
+Andrew Omobamidele             0
+
+--------------------------------------------------
+
+Chỉ số: Take-Ons_Succ
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Take-Ons_Succ
+ Mohammed Kudus            124
+    Jeremy Doku             87
+Bruno Guimarães             72
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Take-Ons_Succ
+Aaron Cresswell              0
+ Aaron Ramsdale              0
+   Adam Webster              0
+
+--------------------------------------------------
+
+Chỉ số: Take-Ons_Succ%
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Take-Ons_Succ%
+Alfie Gilchrist           100.0
+Alphonse Areola           100.0
+    André Onana           100.0
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  Take-Ons_Succ%
+  Aaron Cresswell             0.0
+     Adam Webster             0.0
+Benoît Badiashile             0.0
+
+--------------------------------------------------
+
+Chỉ số: Take-Ons_Tkld
+Top 3 cầu thủ có điểm cao nhất:
+          Player  Take-Ons_Tkld
+  Mohammed Kudus             77
+ Raheem Sterling             70
+Dejan Kulusevski             66
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Take-Ons_Tkld
+ Aaron Ramsdale              0
+Alfie Gilchrist              0
+        Alisson              0
+
+--------------------------------------------------
+
+Chỉ số: Take-Ons_Tkld%
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Take-Ons_Tkld%
+Aaron Cresswell           100.0
+   Adam Webster           100.0
+ Connor Roberts           100.0
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Take-Ons_Tkld%
+Alfie Gilchrist             0.0
+Alphonse Areola             0.0
+    André Onana             0.0
+
+--------------------------------------------------
+
+Chỉ số: Carries_Carries
+Top 3 cầu thủ có điểm cao nhất:
+     Player  Carries_Carries
+      Rodri             2513
+ Lewis Dunk             2417
+Pascal Groß             2284
+
+Top 3 cầu thủ có điểm thấp nhất:
+      Player  Carries_Carries
+Leon Chiwome               16
+  John Fleck               19
+ Neal Maupay               20
+
+--------------------------------------------------
+
+Chỉ số: Carries_TotDist
+Top 3 cầu thủ có điểm cao nhất:
+    Player  Carries_TotDist
+     Rodri            11575
+Rúben Dias            10862
+Lewis Dunk            10752
+
+Top 3 cầu thủ có điểm thấp nhất:
+       Player  Carries_TotDist
+   John Fleck               81
+ Leon Chiwome               86
+Nathan Fraser               88
+
+--------------------------------------------------
+
+Chỉ số: Carries_PrgDist
+Top 3 cầu thủ có điểm cao nhất:
+            Player  Carries_PrgDist
+        Rúben Dias             6693
+             Rodri             6408
+Jan Paul van Hecke             6274
+
+Top 3 cầu thủ có điểm thấp nhất:
+            Player  Carries_PrgDist
+     Nathan Fraser               22
+Leander Dendoncker               27
+        Luke Berry               30
+
+--------------------------------------------------
+
+Chỉ số: Carries_PrgC
+Top 3 cầu thủ có điểm cao nhất:
+            Player  Carries_PrgC
+       Jeremy Doku           218
+Alejandro Garnacho           178
+       Bukayo Saka           155
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Carries_PrgC
+ Aaron Ramsdale             0
+        Alisson             0
+Alphonse Areola             0
+
+--------------------------------------------------
+
+Chỉ số: Carries_1/3
+Top 3 cầu thủ có điểm cao nhất:
+            Player  Carries_1/3
+             Rodri           88
+Alejandro Garnacho           83
+   Martin Ødegaard           83
+
+Top 3 cầu thủ có điểm thấp nhất:
+            Player  Carries_1/3
+    Aaron Ramsdale            0
+           Alisson            0
+Andrew Omobamidele            0
+
+--------------------------------------------------
+
+Chỉ số: Carries_CPA
+Top 3 cầu thủ có điểm cao nhất:
+            Player  Carries_CPA
+       Jeremy Doku          147
+Alejandro Garnacho          102
+  Dejan Kulusevski           82
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Carries_CPA
+Aaron Cresswell            0
+ Aaron Ramsdale            0
+   Adam Webster            0
+
+--------------------------------------------------
+
+Chỉ số: Carries_Mis
+Top 3 cầu thủ có điểm cao nhất:
+              Player  Carries_Mis
+     Dominic Solanke          136
+Jean-Philippe Mateta           89
+     Nicolas Jackson           87
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Carries_Mis
+Aaron Cresswell            0
+Alphonse Areola            0
+ Angelo Ogbonna            0
+
+--------------------------------------------------
+
+Chỉ số: Carries_Dis
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Carries_Dis
+ Mohammed Kudus           93
+Dominic Solanke           81
+  Lucas Paquetá           81
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Carries_Dis
+ Aaron Ramsdale            0
+        Alisson            0
+Alphonse Areola            0
+
+--------------------------------------------------
+
+Chỉ số: Receiving_Rec
+Top 3 cầu thủ có điểm cao nhất:
+     Player  Receiving_Rec
+      Rodri           3242
+Pascal Groß           2736
+ Lewis Dunk           2681
+
+Top 3 cầu thủ có điểm thấp nhất:
+      Player  Receiving_Rec
+Leon Chiwome             18
+  John Fleck             27
+ Neal Maupay             28
+
+--------------------------------------------------
+
+Chỉ số: Receiving_PrgR
+Top 3 cầu thủ có điểm cao nhất:
+            Player  Receiving_PrgR
+       Bukayo Saka             508
+  Dejan Kulusevski             388
+Gabriel Martinelli             345
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Receiving_PrgR
+ Aaron Ramsdale               0
+        Alisson               0
+Alphonse Areola               0
+
+--------------------------------------------------
+
+Chỉ số: Starts_Starts
+Top 3 cầu thủ có điểm cao nhất:
+           Player  Starts_Starts
+      André Onana             38
+       Bernd Leno             38
+Guglielmo Vicario             38
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  Starts_Starts
+       David Ozoh              0
+     Ivan Perišić              0
+Jesurun Rak Sakyi              0
+
+--------------------------------------------------
+
+Chỉ số: Starts_Mn/Start
+Top 3 cầu thủ có điểm cao nhất:
+            Player  Starts_Mn/Start
+    Aaron Ramsdale             90.0
+           Alisson             90.0
+Andrew Omobamidele             90.0
+
+Top 3 cầu thủ có điểm thấp nhất:
+                Player  Starts_Mn/Start
+Rhys Norrington-Davies             27.0
+         Benson Manuel             45.0
+            John Fleck             45.0
+
+--------------------------------------------------
+
+Chỉ số: Starts_Compl
+Top 3 cầu thủ có điểm cao nhất:
+           Player  Starts_Compl
+      André Onana            38
+       Bernd Leno            38
+Guglielmo Vicario            38
+
+Top 3 cầu thủ có điểm thấp nhất:
+      Player  Starts_Compl
+Aaron Ramsey             0
+Adam Lallana             0
+Adama Traoré             0
+
+--------------------------------------------------
+
+Chỉ số: Subs_Subs
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Subs_Subs
+Pierre Højbjerg         28
+ Harvey Elliott         23
+ Cauley Woodrow         22
+
+Top 3 cầu thủ có điểm thấp nhất:
+            Player  Subs_Subs
+    Aaron Ramsdale          0
+      Aaron Hickey          0
+Abdoulaye Doucouré          0
+
+--------------------------------------------------
+
+Chỉ số: Subs_Mn/Sub
+Top 3 cầu thủ có điểm cao nhất:
+        Player  Subs_Mn/Sub
+Anthony Gordon         79.0
+  Adam Wharton         63.0
+Daniel Bentley         57.0
+
+Top 3 cầu thủ có điểm thấp nhất:
+       Player  Subs_Mn/Sub
+      Ben Mee          1.0
+  Ben Godfrey          1.0
+Ethan Pinnock          1.0
+
+--------------------------------------------------
+
+Chỉ số: Subs_unSub
+Top 3 cầu thủ có điểm cao nhất:
+          Player  Subs_unSub
+  Daniel Bentley          33
+Thomas Strakosha          32
+  Aaron Ramsdale          31
+
+Top 3 cầu thủ có điểm thấp nhất:
+            Player  Subs_unSub
+      Aaron Hickey           0
+Abdoulaye Doucouré           0
+      Adam Wharton           0
+
+--------------------------------------------------
+
+Chỉ số: Team_Success_PPM
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Team_Success_PPM
+  Thomas Partey              2.71
+ Aaron Ramsdale              2.67
+Kevin De Bruyne              2.67
+
+Top 3 cầu thủ có điểm thấp nhất:
+       Player  Team_Success_PPM
+   Alex Iwobi               0.0
+   John Fleck               0.0
+Matheus Nunes               0.0
+
+--------------------------------------------------
+
+Chỉ số: Team_Success_onG
+Top 3 cầu thủ có điểm cao nhất:
+        Player  Team_Success_onG
+William Saliba              91.0
+         Rodri              87.0
+   Declan Rice              84.0
+
+Top 3 cầu thủ có điểm thấp nhất:
+       Player  Team_Success_onG
+   Alex Iwobi               0.0
+Benson Manuel               0.0
+  Neal Maupay               0.0
+
+--------------------------------------------------
+
+Chỉ số: Team_Success_onGA
+Top 3 cầu thủ có điểm cao nhất:
+          Player  Team_Success_onGA
+Anel Ahmedhodžić               89.0
+ Thomas Kaminski               85.0
+   Gustavo Hamer               83.0
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Team_Success_onGA
+Hannibal Mejbri                1.0
+   Ivan Perišić                1.0
+   Reiss Nelson                1.0
+
+--------------------------------------------------
+
+Chỉ số: Team_Success_(xG)_onxG
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Team_Success_(xG)_onxG
+Virgil van Dijk                    82.1
+ William Saliba                    76.1
+Bruno Guimarães                    74.0
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Team_Success_(xG)_onxG
+  Benson Manuel                     0.5
+ Jaidon Anthony                     0.6
+Tawanda Chirewa                     0.8
+
+--------------------------------------------------
+
+Chỉ số: Team_Success_(xG)_onxGA
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Team_Success_(xG)_onxGA
+Thomas Kaminski                     77.6
+    André Onana                     68.9
+     Max Kilman                     67.7
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Team_Success_(xG)_onxGA
+   Ivan Perišić                      1.5
+    Neal Maupay                      1.5
+Tawanda Chirewa                      1.5
+
+--------------------------------------------------
+
+Chỉ số: Performance_Fls
+Top 3 cầu thủ có điểm cao nhất:
+          Player  Performance_Fls
+ Conor Gallagher               83
+      João Gomes               66
+Dejan Kulusevski               54
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  Performance_Fls
+Aaron Ramsdale                0
+    Alex Iwobi                0
+Arijanet Muric                0
+
+--------------------------------------------------
+
+Chỉ số: Performance_Fld
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Performance_Fld
+Bruno Guimarães              108
+    Jordan Ayew               94
+ Mohammed Kudus               75
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  Performance_Fld
+       Alex Iwobi                0
+  Alfie Gilchrist                0
+Caoimhín Kelleher                0
+
+--------------------------------------------------
+
+Chỉ số: Performance_Off
+Top 3 cầu thủ có điểm cao nhất:
+               Player  Performance_Off
+         Darwin Núñez               33
+      Nicolas Jackson               28
+Dominic Calvert-Lewin               24
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  Performance_Off
+   Aaron Ramsdale                0
+Aaron Wan-Bissaka                0
+     Aaron Hickey                0
+
+--------------------------------------------------
+
+Chỉ số: Performance_Crs
+Top 3 cầu thủ có điểm cao nhất:
+       Player  Performance_Crs
+Alfie Doughty              340
+  Pascal Groß              238
+Dwight McNeil              229
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Performance_Crs
+ Aaron Ramsdale                0
+        Alisson                0
+Alphonse Areola                0
+
+--------------------------------------------------
+
+Chỉ số: Performance_OG
+Top 3 cầu thủ có điểm cao nhất:
+           Player  Performance_OG
+ Antonee Robinson               2
+   Daiki Hashioka               2
+Emiliano Martínez               2
+
+Top 3 cầu thủ có điểm thấp nhất:
+           Player  Performance_OG
+  Aaron Cresswell               0
+   Aaron Ramsdale               0
+Aaron Wan-Bissaka               0
+
+--------------------------------------------------
+
+Chỉ số: Performance_Recov
+Top 3 cầu thủ có điểm cao nhất:
+         Player  Performance_Recov
+Bruno Guimarães                237
+          Rodri                235
+  Ryan Christie                231
+
+Top 3 cầu thủ có điểm thấp nhất:
+          Player  Performance_Recov
+      Ionuț Radu                  0
+    Mark Travers                  1
+Thomas Strakosha                  1
+
+--------------------------------------------------
+
+Chỉ số: Aerial_Duels_Won
+Top 3 cầu thủ có điểm cao nhất:
+               Player  Aerial_Duels_Won
+      James Tarkowski               140
+      Virgil van Dijk               140
+Dominic Calvert-Lewin               137
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  Aerial_Duels_Won
+Aaron Ramsdale                 0
+    Alex Iwobi                 0
+ Anass Zaroury                 0
+
+--------------------------------------------------
+
+Chỉ số: Aerial_Duels_Lost
+Top 3 cầu thủ có điểm cao nhất:
+               Player  Aerial_Duels_Lost
+       Carlton Morris                169
+Dominic Calvert-Lewin                144
+      Dominic Solanke                135
+
+Top 3 cầu thủ có điểm thấp nhất:
+        Player  Aerial_Duels_Lost
+Aaron Ramsdale                  0
+    Alex Iwobi                  0
+Arijanet Muric                  0
+
+--------------------------------------------------
+
+Chỉ số: Aerial_Duels_Won%
+Top 3 cầu thủ có điểm cao nhất:
+           Player  Aerial_Duels_Won%
+   Arijanet Muric              100.0
+  Bart Verbruggen              100.0
+Caoimhín Kelleher              100.0
+
+Top 3 cầu thủ có điểm thấp nhất:
+         Player  Aerial_Duels_Won%
+  Anass Zaroury                0.0
+Andros Townsend                0.0
+  Benson Manuel                0.0
+
+--------------------------------------------------
+
